@@ -1,10 +1,7 @@
-# <Challenge-1>
+# Challenge-1
 
 ## Description
-
-- Search Engin Optimization
-- Online Reputation Management
-- Social Media Marketing 
+Short web page that goes over what Search Engin Optimization, Online Reputation Management, and Social Media Marketing.
 
 ## Usage
 
